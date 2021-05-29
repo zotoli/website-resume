@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: The University of Texas at Austin
-      year: 2015
+      year: 2019
     - course: MSE in Mechanical Engineering
       institution: The University of Texas at Austin
       year: 2014
