@@ -18,12 +18,15 @@ subtitle:
 feature:
 - link: 'http://www.cplusplus.org/'
   icon: icon-cpp
+  icon_pack: "custom"
   name: CPP
 - link: 'https://www.unrealengine.com/en-US/'
   icon: icon-ue
+  icon_pack: "custom"
   name: Unreal Engine
 - link: 'https://www.ros.org/'
   icon: icon-ros
+  icon_pack: "custom"
   name: Robot Operating System
 
 # Uncomment to use emoji icons.
