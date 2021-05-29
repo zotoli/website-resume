@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Postdoctoral Fellow
+    company: The University of Texas at Austin - Nuclear and Applied Robotics Group
+    company_url: 'https://robotics.me.utexas.edu/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Texas
+    date_start: '2019-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Evaluation of augmented reality capabilities on army-compatible experimental hardware
+        * Autonomous UAV solutions for hazardous environments
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Graduate Research Assistant
+    company: The University of Texas at Austin - RAPID
+    company_url: 'https://drilling.utexas.edu/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Texas
+    date_start: '2015-09-01'
+    date_end: '2018-12-31'
+    description: Worked with industry sponsors to identify their requirements and built algorithms/software to increase the value they get out of drilling operations.
 
 design:
   columns: '2'
