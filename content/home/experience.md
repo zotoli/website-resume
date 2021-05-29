@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Fellow
     company: The University of Texas at Austin - Nuclear and Applied Robotics Group
     company_url: 'https://robotics.me.utexas.edu/'
-    company_logo: org-gc
+    company_logo: org-ut
     location: Texas
     date_start: '2019-04-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Graduate Research Assistant
     company: The University of Texas at Austin - RAPID
     company_url: 'https://drilling.utexas.edu/'
-    company_logo: org-x
+    company_logo: org-ut
     location: Texas
     date_start: '2015-09-01'
     date_end: '2018-12-31'
