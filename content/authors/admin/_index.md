@@ -40,4 +40,4 @@ highlight_name: false
 ---
 Can Pehlivantürk is a postdoctoral fellow at the Department of Mechanical Engineering (Dynamic Systems and Control) at the University of Texas at Austin. His current research focus includes augmented reality for robotics and trajectory optimization. He has 9 years of post-graduate experience as a teaching/research assistant, an industry intern, and a postdoctoral fellow. His previous work includes advisory software for directional drilling, quadrotor motion planning with obstacle avoidance, motion capture and estimation, vibration control, and mechanical design and prototyping.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/210529_Can_Pehlivanturk_Resume_Web.pdf" "newtab" >}}resumé{{< /staticref >}}.

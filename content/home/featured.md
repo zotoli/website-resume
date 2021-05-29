@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "Under Construction"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "kappa"
     category: ""
     publication_type: ""
     tag: ""

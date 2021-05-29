@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Under Construction'
 
 content:
   # Page type to display. E.g. project.
@@ -26,9 +26,9 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+    # tag: '*'
+  - name: Example
+    tag: Example
   - name: Other
     tag: Demo
 

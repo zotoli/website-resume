@@ -16,16 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- link: 'http://www.cplusplus.org/'
-  icon: icon-cpp
+- icon: icon-cpp
   icon_pack: "custom"
-  name: CPP
-- link: 'https://www.unrealengine.com/en-US/'
-  icon: icon-ue
+  fill: "currentColor"
+  name: C++
+
+- icon: icon-ue
   icon_pack: "custom"
+  fill: "currentColor"
   name: Unreal Engine
-- link: 'https://www.ros.org/'
-  icon: icon-ros
+
+- icon: icon-ros
   icon_pack: "custom"
   name: Robot Operating System
 
@@ -38,7 +39,7 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
+#- icon: "brands/org-gc"
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
-    company: The University of Texas at Austin - Nuclear and Applied Robotics Group
+    company: "UT Austin - Nuclear Robotics Group"
     company_url: 'https://robotics.me.utexas.edu/'
     company_logo: org-ut
     location: Texas
@@ -36,13 +36,67 @@ experience:
         * Autonomous UAV solutions for hazardous environments
         
   - title: Graduate Research Assistant
-    company: The University of Texas at Austin - RAPID
+    company: UT Austin - RAPID
     company_url: 'https://drilling.utexas.edu/'
     company_logo: org-ut
     location: Texas
     date_start: '2015-09-01'
     date_end: '2018-12-31'
     description: Worked with industry sponsors to identify their requirements and built algorithms/software to increase the value they get out of drilling operations.
+
+  - title: Drilling & Engineering Technology Intern
+    company: ConocoPhillips
+    company_url: 'https://drilling.utexas.edu/'
+    company_logo: org-conocophillips
+    location: Texas
+    date_start: '2016-06-01'
+    date_end: '2016-09-01'
+    description: "Developed controllers to mitigate torsional drillstring vibrations"
+
+  - title: Drilling & Engineering Technology Intern
+    company: ConocoPhillips
+    company_url: 'https://drilling.utexas.edu/'
+    company_logo: org-conocophillips
+    location: Texas
+    date_start: '2015-06-01'
+    date_end: '2015-09-01'
+    description: "Created relevant environments to model drillstring vibrations"
+
+  - title: Graduate Research Assistant
+    company: "UT Austin - Dept. of Aerospace Engineering"
+    company_url: 'https://drilling.utexas.edu/'
+    company_logo: org-ut
+    location: Texas
+    date_start: '2013-06-01'
+    date_end: '2015-06-01'
+    description: "Set up a lab space and experiments to demonstrate real time optimal trajectory generation and density control for decentralized autonomous agents with conflict avoidance."
+
+  - title: Teaching Assistant
+    company: "UT Austin, Dept. of Mechanical Engineering"
+    company_url: 'https://drilling.utexas.edu/'
+    company_logo: org-ut
+    location: Texas
+    date_start: '2012-08-01'
+    date_end: '2013-06-01'
+    description: "Created relevant environments to model drillstring vibrations Developed a modeling software and an experimental testbed. Developed controllers to mitigate torsional drillstring vibrations"
+
+  - title: Platform Integration Design Intern
+    company: ASELSAN Electronics Inc.
+    company_url: 'https://www.aselsan.com.tr/en'
+    company_logo: org-aselsan
+    location: Ankara
+    date_start: '2011-07-01'
+    date_end: '2011-08-01'
+    description: 
+
+  - title: Manufacturing Engineering Intern
+    company: ROKETSAN Missile Industries Inc
+    company_url: 'https://www.roketsan.com.tr/en/'
+    company_logo: org-roketsan
+    location: Ankara
+    date_start: '2010-06-01'
+    date_end: '2010-07-01'
+    description: 
 
 design:
   columns: '2'
